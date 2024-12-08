@@ -31,7 +31,6 @@ Merry Christmas 2024! 🎅🎁
 plaintext
 Sao chép mã
 caythongnoel/  
-│  
 ├── main.py              # cây 1  
 ├── main1.py             # cây 2  
 ├── README.md            # Hướng dẫn sử dụng  
