@@ -1,5 +1,4 @@
 🎄 CÂY THÔNG NOEL 2024 🎄
-FULL CODE CÂY THÔNG NOEL 2024
 
 🌟 Giới thiệu
 Chào mừng bạn đến với dự án Python "Cây Thông Noel 2024"! Dự án này là một chương trình Python vui nhộn và sáng tạo, giúp bạn tạo ra một cây thông Noel ảo với các hiệu ứng sinh động để chào đón mùa lễ hội.
