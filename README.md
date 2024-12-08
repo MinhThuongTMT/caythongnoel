@@ -11,14 +11,19 @@ Hãy tận hưởng việc lập trình và chia sẻ tinh thần Giáng Sinh c�
 Python 3.8 hoặc mới hơn
 IDE hoặc trình soạn thảo hỗ trợ Python (Visual Studio Code, PyCharm, Jupyter Notebook, v.v.)
 Thưởng thức hiệu ứng cây thông Noel hiển thị trên terminal!
+
 📋 Tính năng nổi bật
+
 Hiệu ứng cây thông Noel động với các ký tự ASCII.
 Thông điệp Giáng Sinh ấm áp.
 Dễ dàng tùy chỉnh kích thước và màu sắc cây thông.
+
 🎨 Tùy chỉnh
+
 Bạn có thể chỉnh sửa các thông số như chiều cao, màu sắc, hoặc thông điệp Giáng Sinh trong code để phù hợp với sở thích cá nhân.
 
 🌐 Góp ý và cải tiến
+
 Nếu bạn có ý tưởng hoặc muốn đóng góp, hãy tạo một Pull Request hoặc mở một Issue trên GitHub.
 
 ❤️ Cảm ơn
@@ -33,5 +38,7 @@ caythongnoel/
 ├── main.py              # cây 1  
 ├── tree.py             # cây 2  
 ├── README.md            # Hướng dẫn sử dụng  
+
 Liên hệ: 
+
 Nếu có bất kỳ thắc mắc nào, hãy gửi email tới tranminhthuong08082003@gmail.com hoặc để lại bình luận trên GitHub.
