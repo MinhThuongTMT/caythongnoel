@@ -22,6 +22,16 @@ Dễ dàng tùy chỉnh kích thước và màu sắc cây thông.
 
 Bạn có thể chỉnh sửa các thông số như chiều cao, màu sắc, hoặc thông điệp Giáng Sinh trong code để phù hợp với sở thích cá nhân.
 
+🖥️ Minh họa
+
+Cây 1 - main.py
+
+![image](https://github.com/user-attachments/assets/0b872bab-7b1a-42aa-9ff1-3687cff99b91)
+
+Cây 2 - tree.py
+
+![image](https://github.com/user-attachments/assets/37267a63-12e2-4f73-a097-152c9acc8fed)
+
 🌐 Góp ý và cải tiến
 
 Nếu bạn có ý tưởng hoặc muốn đóng góp, hãy tạo một Pull Request hoặc mở một Issue trên GitHub.
